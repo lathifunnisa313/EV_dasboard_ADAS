@@ -2,7 +2,7 @@
 
 A simulation-based automotive embedded systems project integrating STM32 firmware, four ultrasonic sensors, virtual serial communication, and a Python Tkinter dashboard to demonstrate electric vehicle monitoring and basic obstacle detection.
 
-📌 Project Overview
+📌 Project Overview :
 
 The EV Dashboard and ADAS Warning System is a software-based simulation developed to explore the integration of embedded systems and automotive monitoring applications.
 
@@ -67,6 +67,14 @@ The project is organized into four main layers.
 Data flow: Simulated sensor and vehicle data → STM32 firmware → virtual serial communication through VSPE → Python application → Tkinter dashboard.
 
 The diagram represents the intended architecture. Successful end-to-end operation depends on the actual firmware, serial protocol, and simulation configuration.
+
+## 🎥 Project Presentation
+
+Watch the PowerPoint presentation explaining the **EV Dashboard and ADAS Warning System**, including the project overview, system architecture, working principle, and future enhancements.
+
+▶️ **[Watch the Project Explanation on YouTube](https://youtu.be/osSQamRVhRE)**
+
+
 
 ⚙️ Working Principle
 
